@@ -1,0 +1,5 @@
+Login OrangeHrm
+Given Login into url
+when Enter the username "Admin"
+And Enter the password "admin123"
+And Click the login Button
